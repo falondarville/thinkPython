@@ -16,5 +16,8 @@ print(.88 * 60)
 
 # Our average pace is 6 minutes and 53 seconds per mile. 
 
+print(60/6.88)
+
+# We can run 8.72 miles per hour.
 
 
